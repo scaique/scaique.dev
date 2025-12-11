@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset 
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+  http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+>
+  <url>
+    <loc>https://scaique.dev.br</loc>
+    <lastmod>2025-09-06</lastmod>
+  </url>
+
+  <url>
+    <loc>https://scaique.dev.br/confront-space-mobile</loc>
+    <lastmod>2025-09-06</lastmod>
+  </url>
+
+  <url>
+    <loc>https://scaique.dev.br/controle-registro</loc>
+    <lastmod>2025-09-06</lastmod>
+  </url>
+
+  <url>
+    <loc>https://scaique.dev.br/lista-desejos</loc>
+    <lastmod>2025-09-06</lastmod>
+  </url>
+
+  <url>
+    <loc>https://scaique.dev.br/unfollowers-for-bluesky</loc>
+    <lastmod>2025-09-06</lastmod>
+  </url>
+
+  <url>
+    <loc>https://scaique.dev.br/unfs-bsky</loc>
+    <lastmod>2025-09-06</lastmod>
+  </url>
+
+  <url>
+    <loc>https://scaique.dev.br/video-bsky</loc>
+    <lastmod>2025-09-06</lastmod>
+  </url>
+
+  <url>
+    <loc>https://scaique.dev.br/xequematestudio</loc>
+    <lastmod>2025-09-06</lastmod>
+  </url>
+</urlset>
+
